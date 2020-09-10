@@ -28,6 +28,9 @@ cat << EOF > /usr/local/etc/v2ray/config.json
                 "disableInsecureEncryption": true
             },
             "streamSettings": {
+                "wsSettings":{
+                    "path":"/huawei"
+                },
                 "network": "ws"
             }
         }

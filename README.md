@@ -14,7 +14,7 @@
 
 本镜像不会因为大量占用资源而被封号。
 
-[![Deploy](https://www.fkhfdfjhj47.com/deploy/button.png)](https://fkhfdfjhj47.heroku.com/new?template=https%3a%2f%2fgithub.com%2fbclswl0827%2fv2ray-heroku%2ftree%2fvless)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://fkhfdfjhj47.heroku.com/new?template=https%3a%2f%2fgithub.com%2fbclswl0827%2fv2ray-heroku%2ftree%2fvless)
 
 ## ENV 设定
 

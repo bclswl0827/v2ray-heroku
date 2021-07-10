@@ -5,7 +5,7 @@
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "b7281d48-44e7-45bb-8c55-dc4f207fd155"
         },
         "WSPATH": {
             "description": "WebSocket Path",
@@ -13,6 +13,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku/tree/vless",
+    "repository": "https://github.com/zsrjim/v2ray-heroku/tree/vless",
     "stack": "container"
 }
